@@ -1,4 +1,4 @@
-import AetherFlowHero from "@/app/components/ui/aether-flow-hero";
+import AetherFlowHero from "@/components/ui/aether-flow-hero";
 import { ArrowRight, Zap, Globe, Cpu } from "lucide-react";
 import Link from "next/link";
 
